@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Irfanullah Shinwary</h1>
 <h3 align="center">I'm Senior Laravel, Spring Boot & React Developer</h3>
-<center><img align="center" alt="error" width="600" height="300"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </center>
+<div style="text-align: center; align-items: center; justify-content: center;">
+  <center><img align="center" style="a"alt="error" width="600" height="300"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </center>
 <p align="left">Contact us for building dynamic web  and standalone applications. </p>
+
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan-shinwary" alt="irfan-shinwary" /></a> </p>
 
